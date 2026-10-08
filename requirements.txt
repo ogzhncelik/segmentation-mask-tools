@@ -1,0 +1,8 @@
+numpy
+rasterio
+geopandas
+opencv-python
+scikit-image
+matplotlib
+Pillow
+tqdm
